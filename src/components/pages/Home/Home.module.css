@@ -1,0 +1,33 @@
+.containerHome {
+   gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.containerHome h1 span {
+      background: #222;
+    color: #ffbb33;
+    padding: 3px;
+}
+.containerHome p {
+    color:  #7b7b7b;
+}
+
+.containerHome a {
+    padding: 5px;
+    background: #222;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+.containerImg  {
+    width: 350px;
+}
+
+.containerImg img {
+    max-width: 100%;
+}

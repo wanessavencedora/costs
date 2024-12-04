@@ -1,0 +1,35 @@
+.containerFooter {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #222;
+    position: relative;
+    bottom: 0;
+    padding: 40px 0;
+}
+
+.containerIcons {
+    display: flex;
+    gap: 20px;
+}
+
+.containerIcons svg {
+    color: #fff;
+    font-size: 20px;
+}
+
+.containerFooter p {
+    color: #fff;
+    font-weight: 600;
+}
+
+.containerFooter p span {
+    color: #ffbb33;
+}
+
+.containerIcons svg:hover {
+    color: #ffbb33;
+ }
