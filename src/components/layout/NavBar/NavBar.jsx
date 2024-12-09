@@ -6,7 +6,7 @@ function NavBar() {
         <nav className={styles.containerNav}>
 
             <Link to="/">
-                <img src={logo} />
+                <img src={logo} alt="Costs" />
             </Link>
             <ul>
                 <li>
