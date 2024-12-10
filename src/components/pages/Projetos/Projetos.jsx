@@ -8,7 +8,7 @@ return (
     <div className={styles.containerProjetos}>
         <h1> Criar Projeto</h1>
         <p>Crie seu projeto para depois adicionar os serviços</p>
-        <ProjetoFormulario/>
+        <ProjetoFormulario btnText="Criar projeto"/>
         </div>   
 )
 
