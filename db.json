@@ -1,45 +1,28 @@
 {
   "projects": [
     {
-      "id": "8820",
-      "name": "Luis Henrique da silva carvalho",
-      "budget": "1",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "ac6a",
-      "name": "Luis Henrique da silva carvalho",
-      "budget": "1",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": "av6Nu0e"
-    },
-    {
-      "name": "Luis Henrique da silva carvalho",
-      "budget": "1",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": "Z8u8nCL"
-    },
-    {
-      "name": "Luis Henrique da silva carvalho",
-      "budget": "1",
+      "name": "teste",
+      "budget": "10000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
-      "id": "OlsDuti"
+      "cost": 60,
+      "services": [
+        {
+          "name": "Luis Henrique da silva carvalho",
+          "cost": "50",
+          "description": "dasdasd",
+          "id": "c3b23222-ba35-408f-96cf-9c55d1685c12"
+        },
+        {
+          "name": "50",
+          "cost": "10",
+          "description": "dasdasd",
+          "id": "fb134815-e257-42dd-8569-781a4ac57e68"
+        }
+      ],
+      "id": 1
     }
   ],
   "categories": [
